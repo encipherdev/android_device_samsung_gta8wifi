@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "encipherdev/android_vendor_samsung_gta8wifi",
+    "target_path": "vendor/samsung/gta8wifi"
+  },
+  {
+    "repository": "encipherdev/enciphered-kernel-4.14",
+    "target_path": "kernel/samsung/gta8wifi"
+  }
+]
